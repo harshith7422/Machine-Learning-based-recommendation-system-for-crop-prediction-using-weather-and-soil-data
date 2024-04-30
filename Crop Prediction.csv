@@ -1,0 +1,61 @@
+State,City,Temperature ,Humidity ,N ,P ,K 
+Andhra Pradesh,Kurnool,32,40,150,80,220
+Andhra Pradesh,Kurnool,35,35,170,90,200
+Andhra Pradesh,Kurnool,30,45,160,85,210
+Andhra Pradesh,Kurnool,38,30,180,100,190
+Andhra Pradesh,Tirupati,28,65,130,70,250
+Andhra Pradesh,Tirupati,30,60,140,85,230
+Andhra Pradesh,Tirupati,25,70,120,65,240
+Andhra Pradesh,Tirupati,27,68,115,72,225
+Andhra Pradesh,Visakhapatnam,29,75,105,55,170
+Andhra Pradesh,Visakhapatnam,32,70,110,60,185
+Andhra Pradesh,Visakhapatnam,27,80,95,48,160
+Andhra Pradesh,Visakhapatnam,30,78,100,52,175
+Andhra Pradesh,Vijayawada,35,55,145,85,215
+Andhra Pradesh,Vijayawada,38,50,150,90,200
+Andhra Pradesh,Vijayawada,33,60,135,82,220
+Andhra Pradesh,Vijayawada,36,58,140,87,210
+Andhra Pradesh,Rajahmundry,31,70,125,70,195
+Andhra Pradesh,Rajahmundry,34,65,130,75,180
+Andhra Pradesh,Rajahmundry,29,75,115,65,205
+Andhra Pradesh,Rajahmundry,32,70,120,70,190
+Tamil Nadu,Chennai,25,70,120,60,180
+Tamil Nadu,Chennai,27,65,110,55,190
+Tamil Nadu,Chennai,23,75,130,65,170
+Tamil Nadu,Chennai,28,70,125,60,185
+Tamil Nadu,Coimbatore,23,55,145,75,210
+Tamil Nadu,Coimbatore,25,50,135,80,205
+Tamil Nadu,Coimbatore,21,60,150,85,220
+Tamil Nadu,Coimbatore,24,55,140,80,215
+Tamil Nadu,Madurai,30,65,100,50,160
+Tamil Nadu,Madurai,32,60,95,45,175
+Tamil Nadu,Madurai,28,70,110,55,150
+Tamil Nadu,Madurai,31,65,105,50,165
+Tamil Nadu,Trichy,33,60,115,65,185
+Tamil Nadu,Trichy,35,55,120,70,170
+Tamil Nadu,Trichy,31,65,110,62,190
+Tamil Nadu,Trichy,34,60,115,67,180
+Tamil Nadu,Salem,29,60,135,75,200
+Tamil Nadu,Salem,31,55,130,70,210
+Tamil Nadu,Salem,27,65,140,80,190
+Tamil Nadu,Salem,30,60,135,75,205
+Karnataka,Mysore,26,70,115,65,195
+Karnataka,Mysore,28,65,120,70,200
+Karnataka,Mysore,24,75,110,60,185
+Karnataka,Mysore,27,70,115,65,190
+Karnataka,Mangalore,30,80,90,45,150
+Karnataka,Mangalore,32,75,85,40,165
+Karnataka,Mangalore,28,85,100,50,140
+Karnataka,Mangalore,31,80,95,47,155
+Karnataka,Hubli,35,50,140,80,210
+Karnataka,Hubli,38,45,150,85,200
+Karnataka,Hubli,33,55,135,78,215
+Karnataka,Hubli,36,50,145,82,205
+Karnataka,Belgaum,32,60,125,75,205
+Karnataka,Belgaum,34,55,130,80,190
+Karnataka,Belgaum,30,65,120,72,210
+Karnataka,Belgaum,33,60,125,77,200
+Karnataka,Bangalore,28,60,160,90,240
+Karnataka,Bangalore,30,55,155,85,235
+Karnataka,Bangalore,26,65,170,95,220
+Karnataka,Bangalore,29,60,165,90,230
