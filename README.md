@@ -32,7 +32,6 @@ b.	Formatting: Ensuring data is in a consistent format suitable for analysis (e.
 c.	Handling Missing Values: Filling in missing data points using techniques like interpolation or removing data points entirely if they represent a very small portion of the data.
 
 3.	FEATURE EXTRACTION:
-
 a.	Identifying specific elements from the weather and soil data that are most relevant for predicting crop yields.
 b.	Examples of features extracted from weather data: 
      i.	Average temperature during the growing season
