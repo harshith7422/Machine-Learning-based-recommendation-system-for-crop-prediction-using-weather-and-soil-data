@@ -42,6 +42,7 @@ c.	Examples of features extracted from soil data:
     i.	Available Nitrogen (N) content
    ii.	Soil pH level
   iii.	Drainage classification
+
 4.	DATA INTEGRATION:
 a.	Combining the pre-processed and feature-extracted weather and soil data sets into a single, unified dataset.
 b.	This dataset will now have features representing both weather conditions and soil properties for a particular location.
